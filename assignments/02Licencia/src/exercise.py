@@ -11,7 +11,7 @@ def main():
           print ("No cumples requisitos")
         if identificacion == "s":
           print("Trámite de licencia concedido")
-        if identificacion =! "s" or "n":
+        if identificacion != "s" or "n":
           print("Respuesta incorrecta")
 
 
