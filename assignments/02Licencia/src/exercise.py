@@ -7,9 +7,9 @@ def main():
         print("No cumples requisitos")
     if edad >= 18:
         if identificacion == n:
-                print ("No cumples requisitos")
+            print ("No cumples requisitos")
         if identificacion == s:
-                print("Trámite de licencia concedido")
+            print("Trámite de licencia concedido")
 
 
 if __name__ == '__main__':
