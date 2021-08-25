@@ -2,7 +2,7 @@
 def main():
     #Escribe tu código debajo de esta línea
     edad = int(input("Ingresa tu edad: "))
-    identificacion = str(input("¿Tienes identificación oficial?" (s/n): "))
+    identificacion = str(input("¿Tienes identificación oficial? (s/n): "))
     if edad < 18:
         print("No cumples requisitos")
     if edad >= 18:
