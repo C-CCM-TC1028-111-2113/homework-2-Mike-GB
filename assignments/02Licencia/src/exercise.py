@@ -6,7 +6,7 @@ def main():
     if edad < 18:
         print("No cumples requisitos")
     if edad >= 18:
-        identificacion = str(input("¿Tienes identificación oficial?" (s/n): ))
+        identificacion = str(input("¿Tienes identificación oficial? (s/n)": ))
             if identificacion == n:
                 print ("No cumples requisitos")
             if identificacion == s:
