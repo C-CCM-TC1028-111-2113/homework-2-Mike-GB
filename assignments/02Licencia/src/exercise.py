@@ -1,7 +1,7 @@
 
 def main():
     #Escribe tu código debajo de esta línea
-    edad = int(input("Ingresa tu edad: "))
+edad = int(input("Ingresa tu edad: "))
 
 if edad < 18:
      print("No cumples requisitos")
